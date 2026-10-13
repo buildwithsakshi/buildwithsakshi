@@ -1,4 +1,13 @@
-
+# 💫 Hi 👋, I'm Sakshi
+🎓 **MCA Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate about building Web Apps & exploring AI**
+Email Me 👉 ✉️ **godarasakshi591@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+I am a Computer Science graduate and current MCA student focusing on building clean, practical applications and strengthening my problem-solving skills. Welcome to my coding journey!
+### 🛠️ What I'm Currently Working On:
+- 🔭 **Current Focus:** Core Data Structures & Algorithms & Python Fundamentals.
+- 🌱 **Learning:** Full-Stack Web Development, Databases (SQL), and Applied AI.
+- 🎯 **Goal:** Becoming a strong software engineer and building impactful real-world projects.
+- 💬 **Ask me about:** Python, Computer Science fundamentals, or my transition journey into tech!
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sakshi.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:godarasakshi591@gmail.com) 
 
