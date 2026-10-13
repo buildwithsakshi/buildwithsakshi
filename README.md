@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=buildwithsakshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-> 🎓 **MCA Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate about building Web Apps & exploring AI**
+> 🎓 **MCA Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate about Web Development & Applied AI**
 
 I am a Computer Science graduate and current MCA student focusing on building clean, practical applications and strengthening my problem-solving skills. Welcome to my coding journey!
 
@@ -48,10 +48,10 @@ I am a Computer Science graduate and current MCA student focusing on building cl
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/meet-sakshi/" target="_blank">
+  <a href="https://www.linkedin.com/in/meet-sakshi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
-⭐️ *From zero to consistent builder. Checked in every day!*
+⭐️ *From zero to consistent builder. One commit at a time!*
