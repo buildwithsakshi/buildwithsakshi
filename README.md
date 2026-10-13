@@ -1,6 +1,7 @@
 # 💫 Hi 👋, I'm Sakshi
 🎓 **MCA Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate about building Web Apps & exploring AI**
-Email Me 👉 ✉️ **godarasakshi591@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **godarasakshi591@gmail.com** 
+For Collaboration/Project or Anything Else. 😊😊
 I am a Computer Science graduate and current MCA student focusing on building clean, practical applications and strengthening my problem-solving skills. Welcome to my coding journey!
 ### 🛠️ What I'm Currently Working On:
 - 🔭 **Current Focus:** Core Data Structures & Algorithms & Python Fundamentals.
@@ -23,8 +24,6 @@ I am a Computer Science graduate and current MCA student focusing on building cl
 ![](https://streak-stats.demolab.com/?user=buildwithsakshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=buildwithsakshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=buildwithsakshi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
