@@ -2,8 +2,8 @@
 🎓 **MCA Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate about building Web Apps & exploring AI**
 
 Email Me 👉 ✉️ **godarasakshi591@gmail.com** 
-
 For Collaboration/Project or Anything Else. 😊😊
+
 I am a Computer Science graduate and current MCA student focusing on building clean, practical applications and strengthening my problem-solving skills. Welcome to my coding journey!
 ### 🛠️ What I'm Currently Working On:
 - 🔭 **Current Focus:** Core Data Structures & Algorithms & Python Fundamentals.
